@@ -1,0 +1,15 @@
+GenAI/
+.DS_Store
+
+# Python virtual environments
+venv/
+.venv/
+env/
+.env/
+pyvenv.cfg
+__pycache__/
+*.py[cod]
+*.$py.class
+
+# Model artifacts
+model/
